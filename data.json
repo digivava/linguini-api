@@ -1,0 +1,53 @@
+{
+  "sentences": [
+    {
+      "id": "112435464",
+      "text": {
+        "full": "ここは秋葉原です。",
+        "romaji": "Koko wa Akihabara desu.",
+        "kana_only": "ここはあきはばらです。"
+      },
+      "translations": {
+        "natural": "This is Akihabara.",
+        "literal": "Here (topic-marker) Akihabara is."
+      },
+      "kanji": [
+        "秋",
+        "葉",
+        "原"
+      ],
+      "level": 1,
+      "audio": "http://s3/file1.mp3",
+      "tags": [
+        "です",
+        "は"
+      ],
+      "notes": "Akihabara is Tokyo's nerd paradise! In this neighborhood you can find anime figurines, fanmade comics, obscure retro toys, and more. \n\n ここ (\"koko\") is how you reference the location you're currently in, like English \"here\"."
+    },
+    {
+      "id": "5464564",
+      "text": {
+        "full": "ゆうた君、悪いことしないでね。",
+        "romaji": "Yuuta-kun, warui koto shinaide ne.",
+        "kana_only": "ゆうたくん、わるいことしないでね。"
+      },
+      "translations": {
+        "natural": "Yuuta, don't do bad things, okay?",
+        "literal": "Yuuta, bad thing(s) don't do, (response elicitor)."
+      },
+      "kanji": [
+        "君",
+        "悪"
+      ],
+      "level": 2,
+      "audio": "http://s3/file2.mp3",
+      "tags": [
+        "くん",
+        "~ないで",
+        "こと",
+        "ね"
+      ],
+      "notes": "The ~ないで form is the negative imperative form, the opposite of ~て form. When you want to tell someone not to do something, this is the form you'll use. \n Just replace the て in the ~て form with　~ないで and you'll be ready to tell people \"Don't ____!\" in no time."
+    }
+  ]
+}
